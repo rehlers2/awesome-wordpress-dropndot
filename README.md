@@ -89,6 +89,7 @@ http://imagesloaded.desandro.com
 * [WordPress Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards) - The WordPress coding standards.
 	
 ## Plugin Development
+* [Waveleta for WordPress](https://wordpress.org/plugins/waveleta/) - Free live crypto prices, FX rates and market widgets via shortcodes, blocks and Elementor.
 * [Writing a Plugin](http://codex.wordpress.org/Writing_a_Plugin) - WordPress plugins development codex by WordPress.org.
 * [Repeatable Metaboxes](http://fieldmanager.org/) - Fieldmanager is a toolkit for developers to create complex administration screens in WordPress.
 
